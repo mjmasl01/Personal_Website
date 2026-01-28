@@ -33,7 +33,7 @@ Group project modeling microbial gene expression using beta regression and tree-
 ### Save the Children: An Analysis on Programs  
 **Fall 2024**  
 Group project applying machine learning models and pipeline development to student-level data across multiple countries. I specifically contributed to the Student Retention Studies component.  
-*Details available upon request, in accordance with client confidentiality.*
+[GitHub Repo](https://github.com/BU-Spark/ds-save-the-children/tree/main)
 
 ---
 
