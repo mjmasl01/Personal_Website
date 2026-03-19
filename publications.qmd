@@ -2,14 +2,12 @@
 title: "Publications"
 ---
 
-### Hemodynamic Monitoring in Cardiac Surgery  
-As a Research Assistant at Brown University Health, I contributed to a clinical study analyzing arterial pressure sites in cardiac surgery patients. I conducted statistical testing in R — including descriptive statistics and hypothesis testing — which supported the final peer-reviewed publication.
+### Comparing Echocardiography and Right Heart Catheterization for Mortality Prediction in Pulmonary Hypertension
+Retrospective cohort study of 159 critically ill adults with pulmonary hypertension examining RHC and echocardiographic predictors of 12-month mortality. Integrated pulmonary-to-systemic hemodynamic ratios (mPAP/MAP, PVR/SVR) and systemic perfusion pressure were the strongest predictors of mortality, highlighting the prognostic importance of a combined hemodynamic assessment over isolated parameters.
 
-*Journal of Cardiothoracic and Vascular Anesthesia*, May 2024  
-**Citation:**  
-Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. *Hemodynamic Monitoring In The Cardiac Surgical Patient: Comparison of Three Arterial Catheters.* J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: [10.1053/j.jvca.2024.02.010](https://doi.org/10.1053/j.jvca.2024.02.010). Epub 2024 Feb 13. PMID: [38461034](https://pubmed.ncbi.nlm.nih.gov/38461034/)  
-
-[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/HemodynamicMonitoring_RcodeAnalysis_BrownHealth)
+*Journal of Cardiothoracic and Vascular Anesthesia*, March 2026
+**Citation:**
+Lucia Costanza BA, Thor S. Stead MD, Maurice F. Joyce MD EdM FASA, Matthew Maslow MSDS, Andrew Maslow MD, *Comparing Echocardiography and Right Heart Catheterization for Mortality Prediction in Pulmonary Hypertension*, Journal of Cardiothoracic and Vascular Anesthesia (2026), doi: [https://doi.org/10.1053/j.jvca.2026.03.012](https://doi.org/10.1053/j.jvca.2026.03.012)
 
 ---
 
@@ -20,4 +18,14 @@ As part of my Senior Year Experience (SYE) at St. Lawrence University, I develop
 [View SCORE Network Publication](https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html)  
 [GitHub Repo](https://github.com/mjmasl01/SYE---SCORE-Network)
 
+---
+
+### Hemodynamic Monitoring in Cardiac Surgery  
+As a Research Assistant at Brown University Health, I contributed to a clinical study analyzing arterial pressure sites in cardiac surgery patients. I conducted statistical testing in R — including descriptive statistics and hypothesis testing — which supported the final peer-reviewed publication.
+
+*Journal of Cardiothoracic and Vascular Anesthesia*, February 2024  
+**Citation:**  
+Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. *Hemodynamic Monitoring In The Cardiac Surgical Patient: Comparison of Three Arterial Catheters.* J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: [https://doi.org/10.1053/j.jvca.2024.02.010](https://doi.org/10.1053/j.jvca.2024.02.010). Epub 2024 Feb 13. PMID: [38461034](https://pubmed.ncbi.nlm.nih.gov/38461034/)
+
+[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/HemodynamicMonitoring_RcodeAnalysis_BrownHealth)
 
