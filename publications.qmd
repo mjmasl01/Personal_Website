@@ -9,6 +9,8 @@ Retrospective cohort study of 159 critically ill adults with pulmonary hypertens
 **Citation:**
 Lucia Costanza BA, Thor S. Stead MD, Maurice F. Joyce MD EdM FASA, Matthew Maslow MSDS, Andrew Maslow MD, *Comparing Echocardiography and Right Heart Catheterization for Mortality Prediction in Pulmonary Hypertension*, Journal of Cardiothoracic and Vascular Anesthesia (2026), doi: [https://doi.org/10.1053/j.jvca.2026.03.012](https://doi.org/10.1053/j.jvca.2026.03.012)
 
+[Github Repo Coming Soon]()
+
 ---
 
 ### Rodeo Sports Analytics – SCORE Network Publication  
