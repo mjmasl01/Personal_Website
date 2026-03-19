@@ -1,6 +1,6 @@
 ---
 title: "Matthew Maslow"
-image: me.png
+image: ___.png
 about:
   template: trestles
   links:
